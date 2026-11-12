@@ -1,4 +1,4 @@
-# FirstRepo
+My Awesome Project
 
 ## MyFirstGitPractise
 
